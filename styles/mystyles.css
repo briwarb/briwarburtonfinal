@@ -1,0 +1,29 @@
+/* Brianna Warburton 12/17/21 */
+.joy{
+    color:white;
+}
+
+.color{
+    color:darkolivegreen;
+    font-size: 1.875rem;
+    margin-top: 1.875rem;
+    margin-bottom: 0.625rem;
+}
+
+.foot{
+    color:darkolivegreen;
+    text-align: center;   
+}
+
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+}
+
+.sub{
+    font-size: 1.125rem;
+    font-style: italic;
+    margin-top: 0;
+    color: black
+}
+

@@ -1,0 +1,44 @@
+/* Brianna Warburton 12/1/21 */
+.common { 
+    background-color: cadetblue;
+    border: solid 3px #CCCCCC;
+    color: white;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15pt;
+}
+
+h2 {
+    text-align: right;
+}
+
+
+.navigation {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 150px;
+}
+
+.tableau {
+    top: 114px;
+    left: 5px;
+    right: 5px;
+    bottom: 64px;
+}
+
+.footer {
+    text-align: center;
+    font-size: 12pt;
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+}
+
+.nav-link {
+    color: white;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
